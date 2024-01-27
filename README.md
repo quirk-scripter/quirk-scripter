@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quirk-scripter" alt="quirk-scripter" /></a> </p>
 
-- 🔭 Currently, I am working on C# **C#**
+- 🔭 Currently, I am working on  **C#**
 
 
 
