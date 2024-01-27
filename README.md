@@ -1,3 +1,5 @@
+<div align="center"><img src="https://github.com/quirk-scripter/quirk-scripter/blob/main/hello.png" width="150" height="180"></div>
+
 <h1 align="center">Hello Multiverse!  I'm, Constant Coder</h1>
 <h3 align="center">Hello, I am like a life algorithm in the 'Constant Coder' class of the Life Database. At the moment, while continuing somewhere with 'continue;', I am also trying to manage exceptional situations thrown at me by life with 'throw new Exception();', kind of navigating in 'debug' mode. Perhaps life has cornered me in a 'try-catch' loop, who knows? Maybe somewhere a 'break;' point is smiling at me! 😄</h3>
 
