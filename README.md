@@ -6,12 +6,12 @@
 <img src="https://github.com/quirk-scripter/quirk-scripter/blob/main/d%C3%BCnya.jpg" width="auto">
 
 
-Constant Coder - Dijital Kıta'nın Keşif Yolcusu
-Merhaba, ben Hayat Veritabanı'nda 'Constant Coder' sınıfında bir yaşam algoritması gibiyim.
+<h1 align="center">Selam Evrendekiler!...  Ben, Constant Coder - Dijital Kıta'nın Keşif Yolcusu</h1>
+<h3 align="center">Merhaba, ben Hayat Veritabanı'nda 'Constant Coder' sınıfında bir yaşam algoritması gibiyim.
 Şu anki durumum, bir yerde 'continue;' ile devam ederken bir yandan da 'throw new Exception();' ile hayatın bana fırlattığı istisnai durumları yönetmeye , bir nevi 'debug' modunda gezmeye çalışmak gibi.
 
 Belki hayat beni bir 'try-catch' döngüsünde sıkıştırmıştır, kim bilir?
-Belki bir yerde 'break;' noktası bana gülümsüyordur! 😄
+Belki bir yerde 'break;' noktası bana gülümsüyordur! 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quirk-scripter&label=Profile%20views&color=0e75b6&style=flat" alt="quirk-scripter" /> </p>
 
